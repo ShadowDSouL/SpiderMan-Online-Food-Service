@@ -1,0 +1,6 @@
+CO1;shadow;Pending;RM24.00;03/09/2022 16:33:48;MC0;Mee goreng mamak;1;RM8;MC2;Mee rebus;1;RM10;DS0;Ais Kacang;1;RM6;
+CO2;shadow;Pending;RM21.00;03/09/2022 16:33:57;MC0;Mee goreng mamak;1;RM8;MC1;Nasi lemak;1;RM13;
+CO3;testing;Completed;RM8.00;03/09/2022 16:34:27;MC0;Mee goreng mamak;1;RM8;
+CO4;shadow;Completed;RM1.80;04/09/2022 21:10:19;MC4;Roti Canai;1;RM1.80;
+CO5;testing1;Completed;RM36.80;13/09/2022 20:46:14;MC0;Mee goreng mamak;1;RM8;MC4;Roti Canai;1;RM1.80;SD3;French Fries;3;RM5;DS2;Red Bean Soup;2;RM6;
+CO6;testing1;Completed;RM51.50;15/09/2022 15:20:24;MC1;Nasi lemak;2;RM13;MC5;Nasi Goreng;1;RM13;SD1;Karipap (6pcs);3;RM2.50;BV3;White Coffee;2;RM2.50;
